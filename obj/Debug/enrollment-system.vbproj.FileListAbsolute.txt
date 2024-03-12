@@ -1,0 +1,13 @@
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\Enrollment System\system\enrollment-system\bin\Debug\enrollment-system.exe.config
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\Enrollment System\system\enrollment-system\bin\Debug\enrollment-system.exe
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\Enrollment System\system\enrollment-system\bin\Debug\enrollment-system.pdb
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\Enrollment System\system\enrollment-system\bin\Debug\enrollment-system.xml
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\Enrollment System\system\enrollment-system\obj\Debug\enrollment-system.vbproj.AssemblyReference.cache
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\Enrollment System\system\enrollment-system\obj\Debug\enrollment_system.frmLogin.resources
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\Enrollment System\system\enrollment-system\obj\Debug\enrollment_system.frmDashboard.resources
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\Enrollment System\system\enrollment-system\obj\Debug\enrollment_system.Resources.resources
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\Enrollment System\system\enrollment-system\obj\Debug\enrollment-system.vbproj.GenerateResource.cache
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\Enrollment System\system\enrollment-system\obj\Debug\enrollment-system.vbproj.CoreCompileInputs.cache
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\Enrollment System\system\enrollment-system\obj\Debug\enrollment-system.exe
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\Enrollment System\system\enrollment-system\obj\Debug\enrollment-system.xml
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\Enrollment System\system\enrollment-system\obj\Debug\enrollment-system.pdb
